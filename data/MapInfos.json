@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"World","order":1,"parentId":0,"scrollX":676.5,"scrollY":543.75},
+{"id":2,"expanded":true,"name":"Capital","order":2,"parentId":1,"scrollX":1020,"scrollY":908.25},
+{"id":3,"expanded":true,"name":"castleLobby","order":3,"parentId":2,"scrollX":775.5,"scrollY":1325.25},
+{"id":4,"expanded":true,"name":"castleGarden","order":5,"parentId":3,"scrollX":676.5,"scrollY":543.75},
+{"id":5,"expanded":true,"name":"castleUpper","order":4,"parentId":3,"scrollX":888,"scrollY":599.25},
+{"id":6,"expanded":false,"name":"blank","order":9,"parentId":0,"scrollX":676.5,"scrollY":543.75},
+{"id":7,"expanded":true,"name":"Shrine","order":7,"parentId":2,"scrollX":676.5,"scrollY":543.75},
+{"id":8,"expanded":false,"name":"castleBarracks","order":6,"parentId":3,"scrollX":888,"scrollY":531.75},
+{"id":9,"expanded":false,"name":"dungeon","order":8,"parentId":7,"scrollX":811.5,"scrollY":531.75}
+]

@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"placeholder","characterIndex":0,"characterName":"Actors","classId":1,"equips":[1,1,2,3,0],"faceIndex":6,"faceName":"placeholder copy","traits":[],"initialLevel":1,"maxLevel":99,"name":"Veratus","nickname":"","note":"retainer to regent king rion","profile":""},
+{"id":2,"battlerName":"placeholder_princess","characterIndex":2,"characterName":"placeholder_sprite","classId":2,"equips":[2,1,2,3,0],"faceIndex":2,"faceName":"placeholder","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rion","nickname":"","note":"regent king of the east","profile":""},
+{"id":3,"battlerName":"placeholder_perseus","characterIndex":5,"characterName":"placeholder_sprite","classId":3,"equips":[3,0,2,3,4],"faceIndex":5,"faceName":"placeholder","traits":[],"initialLevel":1,"maxLevel":99,"name":"Perseus","nickname":"","note":"magistrate perseus of the south","profile":""},
+{"id":4,"battlerName":"placeholder_vivien","characterIndex":4,"characterName":"placeholder_sprite","classId":3,"equips":[4,0,2,3,4],"faceIndex":4,"faceName":"placeholder","traits":[],"initialLevel":1,"maxLevel":99,"name":"Vivien","nickname":"","note":"councillor vivien of the west","profile":""},
+{"id":5,"battlerName":"placeholder_ennio","characterIndex":3,"characterName":"placeholder_sprite","classId":3,"equips":[3,0,0,3,0],"faceIndex":3,"faceName":"placeholder","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ennio","nickname":"","note":"third prinxe of the north","profile":""},
+{"id":6,"battlerName":"placeholder_assassin","characterIndex":1,"characterName":"placeholder_sprite","classId":4,"equips":[2,0,0,0,0],"faceIndex":1,"faceName":"placeholder","traits":[],"initialLevel":1,"maxLevel":99,"name":"???","nickname":"","note":"assassin hired by perseus?","profile":""}
+]
