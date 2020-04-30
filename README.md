@@ -6,8 +6,8 @@ After King Caeles passes away suddenly, his daughter inherits the throne---but s
 
 Play with mouse and/or keyboard.
 
-**To move:** Double click on tile. / Use the arrow keys./n
-**To dash:** Press and hold 'Shift' while moving./n
-**To interact:** Click on the object or character. / Press 'Z', 'Enter', or 'Space'./n
-**To cancel:** Right-click. / Press 'Esc' or 'X'./n
+**To move:** Double click on tile. / Use the arrow keys.  
+**To dash:** Press and hold 'Shift' while moving.  
+**To interact:** Click on the object or character. / Press 'Z', 'Enter', or 'Space'.  
+**To cancel:** Right-click. / Press 'Esc' or 'X'.  
 **To access menu:** Right-click. / Press 'Esc' or 'X'.
