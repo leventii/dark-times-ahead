@@ -15,7 +15,7 @@ Play with mouse and/or keyboard.
 # Credits
 
 **Music:**
-- Rolemusic (https://freemusicarchive.org/music/Rolemusic)
+- Visager (http://visageraudio.com/)
 
 **Portraits, Scripting, Title Screen, Writing:**
 - Lev Kim (https://lev.kim/)
