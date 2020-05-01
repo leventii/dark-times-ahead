@@ -1,8 +1,8 @@
 # Premise
 
-After King Caeles passes away suddenly, his daughter inherits the throne---but she feels that something is off. She assigns her retainer, Veratus, to reinvestigate her father's death in secret. Veratus begins to uncover a dangerous dark secret within the kingdom of Aethelos.
+After King Caeles passes away suddenly, his daughter inherits the throne--but she feels that something is off. She assigns her retainer, Veratus, to reinvestigate her father's death in secret. Veratus begins to uncover a dangerous dark secret within the kingdom of Aethelos.
 
-# Directions
+# Controls
 
 Play with mouse and/or keyboard.
 
@@ -11,3 +11,22 @@ Play with mouse and/or keyboard.
 **To interact:** Click on the object or character. / Press 'Z', 'Enter', or 'Space'.  
 **To cancel:** Right-click. / Press 'Esc' or 'X'.  
 **To access menu:** Right-click. / Press 'Esc' or 'X'.
+
+# Credits
+
+**Music:**
+- Rolemusic (https://freemusicarchive.org/music/Rolemusic)
+
+**Portraits, Scripting, Title Screen, Writing:**
+- Lev Kim (https://lev.kim/)
+
+**Sprites, Tilesets:**
+- Andy Evans (https://andyparadoxic.carrd.co/)
+- The Mighty Palm (https://themightypalm.itch.io/)
+
+**Scripting:**
+- Aloe Guvner (https://forums.rpgmakerweb.com/index.php?members/aloe-guvner.109866/#about)
+- Galv (https://galvs-scripts.com/)
+- Irina (https://atelieririna.itch.io/)
+- mjshi (https://mjshi.weebly.com/)
+- OcRam (https://forums.rpgmakerweb.com/index.php?members/ocram.89983/#about)
