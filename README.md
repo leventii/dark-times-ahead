@@ -1,3 +1,5 @@
+![Title screen for Dark Times Ahead](https://github.com/levkim/dark-times-ahead/blob/master/img/titles1/title_screen%202.png?raw=true)
+
 # Premise
 
 After King Caeles passes away suddenly, his daughter inherits the throne--but she feels that something is off. She assigns her retainer, Veratus, to reinvestigate her father's death in secret. Veratus begins to uncover a dangerous dark secret within the kingdom of Aethelos.
