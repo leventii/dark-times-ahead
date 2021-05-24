@@ -22,6 +22,10 @@ Play with mouse and/or keyboard.
 **Portraits, Scripting, Title Screen, Writing:**
 - Lev Kim (https://lev.kim/)
 
+**Quality Assurance**
+- Andy Evans (https://andyparadoxic.carrd.co/)
+- Lev Kim (https://lev.kim/)
+
 **Sprites, Tilesets:**
 - Andy Evans (https://andyparadoxic.carrd.co/)
 - The Mighty Palm (https://themightypalm.itch.io/)
