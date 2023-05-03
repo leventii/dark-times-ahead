@@ -20,11 +20,11 @@ Play with mouse and/or keyboard.
 - Visager (http://visageraudio.com/)
 
 **Portraits, Scripting, Title Screen, Writing:**
-- Lev Kim (https://lev.kim/)
+- Rhys Kim (https://lev.kim/)
 
 **Quality Assurance**
 - Andy Evans (https://andyparadoxic.carrd.co/)
-- Lev Kim (https://lev.kim/)
+- Rhys Kim (https://lev.kim/)
 
 **Sprites, Tilesets:**
 - Andy Evans (https://andyparadoxic.carrd.co/)
